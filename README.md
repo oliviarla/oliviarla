@@ -24,7 +24,7 @@
 </p>
 
 <p>
-  🐾 <b>Interested Skills(learn soon or late)</b><br><br>
+  🕯️ <b>Interested Skills(learn soon or late)</b><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,kafka,kubernetes,elasticsearch&theme=light" />
   </a>
