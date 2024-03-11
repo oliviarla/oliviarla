@@ -1,38 +1,50 @@
-<!--
-**oliviarla/oliviarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align=center><h3>📚skills</h3></div>
-
-<div align=center>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
+<div>
+  <h3>I'm...</h3>
+  
+  currently learning Java, Spring and interested in asynchronous processing. <br>
+  and currently working on cache server solutions with Java, Spring. <br>
+  I love fully understanding technology and creating my own documentation. 📑 <br>
+  
 </div>
+
+<div><h3>My Skills</h3></div>
+
+<p>
+  🩶 <b>Favorite Skills</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,gradle,idea,mysql,redis,go,py,notion&theme=light" />
+  </a>
+</p>
+ 
+<p>
+  🐾 <b>DevOps</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,jenkins,nginx,prometheus,grafana&theme=light" />
+  </a>
+</p>
+
+<p>
+  🐾 <b>Interested Skills(learn soon or late)</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,kafka,kubernetes,elasticsearch&theme=light" />
+  </a>
+</p>
+
 <br>
-<div align=center>
+<div>
+
+<div><h3>My Hobbies</h3></div>
+
+- 🧶 Crochet
+- 📸 Take pictures
+- 🚉 Travel
+- 🔫 Game (Mobile PUBG, Board Games)
+
+<br>
 
 [![oliviarla's github stats](https://github-readme-stats.vercel.app/api?username=oliviarla)](https://github.com/anuraghazra/github-readme-stats)
+
+Thank you for visiting. Have a nice day :) 🏝️ <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foliviarla&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
