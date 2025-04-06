@@ -1,8 +1,7 @@
 <div>
   <h3>I'm...</h3>
   
-  currently learning Java, Spring and interested in asynchronous processing. <br>
-  and currently working on cache server solutions with Java, Spring. <br>
+  currently working on cache server solutions with Java, Spring and interested in asynchronous processing. <br>
   I love fully understanding technology and creating my own documentation. 📑 <br>
   
 </div>
@@ -38,13 +37,10 @@
 - 🧶 Crochet
 - 📸 Take pictures
 - 🚉 Travel
-- 🔫 Game (Mobile PUBG, Board Games)
+- 🔫 Game
 
 <br>
 
 [![oliviarla's github stats](https://github-readme-stats.vercel.app/api?username=oliviarla)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting. Have a nice day :) 🏝️ <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foliviarla&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
