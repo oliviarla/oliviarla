@@ -18,9 +18,11 @@
 <p>
   🐾 <b>DevOps</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,jenkins,nginx,prometheus,grafana&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,docker,jenkins,nginx,prometheus,grafana&theme=light" />
   </a>
 </p>
+
+[<img src="https://github.com/user-attachments/assets/b5d5d8cc-c41b-40a4-8dc9-94c66f0a5f08" alt="Description" width="70" height="70">](https://www.credly.com/badges/ab21e195-23ab-4073-9edc-ba94d3e00b55/public_url)
 
 <p>
   🕯️ <b>Interested Skills(learn soon or late)</b><br><br>
